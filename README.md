@@ -1,6 +1,6 @@
 # Hohai-RoboLab
 <font size=11 >实验室学习资料共享交流平台</font>
-# C语言学习
+# C/C++
 # Python学习
 # JAVA学习
 # Web开发
