@@ -12,6 +12,8 @@
 # 机器学习
 # 深度学习
 # 强化学习
+# F1TENTH: AUTONOMOUS RACING
+https://www.youtube.com/playlist?list=PL7rtKJAz_mPdQ6fdpDkis9WrARUINneLp
 # 各种踩过的坑/实用技巧
 ## 保证外网的顺畅访问
 在linux环境中，安装clash等系列代理工具显然没有在Windows中那样方便。
