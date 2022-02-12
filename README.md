@@ -5,17 +5,17 @@
 通过 https://education.github.com/pack/offers 我们可以利用我们的教育邮箱（@hhu.edu.cn）申请到很多很有用的开发工具，如Jetbrains全家桶（其中就包括著名的IntelliJ IDEA,PyCharm等），Github Pro订阅，Termius Premium订阅等等。这些都是对学生免费使用的！
 # C/C++
 # Python学习
-  Python编程无师自通 电子书及代码
-  
+  Python编程无师自通 电子书及代码  
+  ```
   链接：https://pan.baidu.com/s/1Z0vQT4BPuhZ2_yA6BzcYGw 
   提取码：1111
-  
+  ```
   祝师兄强烈推荐：
-  https://docs.python.org/3/howto/logging.html
-  
-  https://docs.python.org/3/library/unittest.html
-  
+  ```
+  https://docs.python.org/3/howto/logging.html  
+  https://docs.python.org/3/library/unittest.html  
   https://www.python.org/dev/peps/pep-0008/
+  ```
 # JAVA学习
 # Web开发
 # php学习
