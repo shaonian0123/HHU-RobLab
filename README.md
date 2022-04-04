@@ -26,6 +26,8 @@ https://element.eleme.cn/#/zh-CN/component/layout
 深蓝学院——《从0制作自主空中机器人》课程
 
 （公用账号密码：370045744@qq.com  123456）
+# 3D打印厂商推荐（包括软胶体）
+https://www.wenext.cn/index.php?route=common/home
 # F1TENTH: AUTONOMOUS RACING
 https://www.youtube.com/playlist?list=PL7rtKJAz_mPdQ6fdpDkis9WrARUINneLp
 # 各种踩过的坑/实用技巧
