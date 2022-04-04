@@ -12,6 +12,10 @@
 # 机器学习
 # 深度学习
 # 强化学习
+# 自主导航无人机入门知识（建议高年级同学学习，尤其有ROS开发经验）
+深蓝学院——《从0制作自主空中机器人》课程
+
+（公用账号密码：370045744@qq.com  123456）
 # F1TENTH: AUTONOMOUS RACING
 https://www.youtube.com/playlist?list=PL7rtKJAz_mPdQ6fdpDkis9WrARUINneLp
 # 各种踩过的坑/实用技巧
