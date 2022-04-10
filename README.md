@@ -1,6 +1,10 @@
 # HHU-RobLab
 <font size=11 >实验室学习资料共享交流平台</font>
-
+# 搜索算法
+  MIT关于搜索算法的三节课，总时长150分钟附近，把路径规划算法讲的一清二楚，建议搞ROS的同学都学习下
+  ```
+  https://open.163.com/newview/movie/free?pid=MCTMNN3UI&mid=MCTMO30C1
+  ```
 # 好用的开发工具
 通过 https://education.github.com/pack/offers 我们可以利用我们的教育邮箱（@hhu.edu.cn）申请到很多很有用的开发工具，如Jetbrains全家桶（其中就包括著名的IntelliJ IDEA,PyCharm等），Github Pro订阅，Termius Premium订阅等等。这些都是对学生免费使用的！
 # C/C++
