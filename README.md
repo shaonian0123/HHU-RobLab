@@ -21,12 +21,28 @@
   https://www.python.org/dev/peps/pep-0008/
   ```
 # JAVA学习
-# Web开发
+# Web开发（高级）
+## Bootstrap
+https://www.runoob.com/bootstrap/bootstrap-navigation-elements.html
+## 拖拽式前端设计
+https://www.runoob.com/try/bootstrap/layoutit/
+## Vue
+https://v3.cn.vuejs.org/guide/introduction.html
+## TDesign、element（高大上的前端模板）
+https://tdesign.tencent.com/vue/getting-started
+
+https://element.eleme.cn/#/zh-CN/component/layout
 # php学习
 # Linux学习
 # 机器学习
 # 深度学习
 # 强化学习
+# 自主导航无人机入门知识（建议高年级同学学习，尤其有ROS开发经验）
+深蓝学院——《从0制作自主空中机器人》课程
+
+（公用账号密码：370045744@qq.com  123456）
+# 3D打印厂商推荐（包括软胶体）
+https://www.wenext.cn/index.php?route=common/home
 # F1TENTH: AUTONOMOUS RACING
 https://www.youtube.com/playlist?list=PL7rtKJAz_mPdQ6fdpDkis9WrARUINneLp
 # 各种踩过的坑/实用技巧
